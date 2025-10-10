@@ -1,6 +1,18 @@
-body{
-    background-color: darkgray;
+h1{
+    background-color: rgb(48, 48, 48);
+    color: white;
 }
 body{
-    background-color: gray;
+    background-color: rgb(48, 48, 48);
+}
+footer{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    width: 100%;
+}
+.row {
+    background-color: rgb(48, 48, 48);
+}
+ul{
+    color: white;
 }
