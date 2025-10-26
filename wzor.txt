@@ -60,6 +60,7 @@
                 <img class="img thumbnail img-fluid  mx-auto d-block p-2" src="../../png/" alt="">
                 <p class="text-light text-center"></p>
             </div>
+        </div>
     </div>
     <footer>
         Część grafik wziętych ze strony <a href="https://wiki.warthunder.com" target="_blank">Gaijina</a> a troszku sam zrobiem w WT
