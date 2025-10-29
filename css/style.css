@@ -31,3 +31,20 @@ html::-webkit-scrollbar,
 body::-webkit-scrollbar {
     display: none; /* Chrome, Safari, Edge */
 }
+@keyframes czolg {
+  from {
+    left: 100%;
+  }
+
+  to {
+    left: -10%;
+  }
+}
+
+.czolg>.ralsi {
+  position: fixed;
+  bottom: 0;
+  height: 80px;
+  width: 155px;
+  animation: czolg 20s infinite linear;
+}
